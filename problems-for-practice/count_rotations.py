@@ -15,10 +15,8 @@ def search_direction(nums, middle_position):
      
 def count_rotations(nums):
   
-  if (len(nums) == 0):
+  if (len(nums) == 0 or len(nums) == 1):
     return 0
-  elif (len(nums) == 1):
-    return 1
   
   start_index, end_index = 0, len(nums)-1
   while (start_index <= end_index):
@@ -32,7 +30,7 @@ def count_rotations(nums):
     elif (direction == 'right'):
       start_index = middle_position+1
     else:
-      return len(nums)
+      return 0  # If the list didn't get change we should return 0 as minumum number of rotations and not len(nums)
   return 1 
 
 test_cases = [
@@ -46,13 +44,13 @@ test_cases = [
     'input': {
       'nums': [1, 3, 5],
     },
-    'output': 3
+    'output': 0
   },
   {
     'input': {
       'nums': [3],
     },
-    'output': 1
+    'output': 0
   },
   {
     'input': {
