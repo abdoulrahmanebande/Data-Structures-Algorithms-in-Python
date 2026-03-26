@@ -62,7 +62,7 @@ A curated list of classic algorithmic challenges and LeetCode problems:
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git)
+   git clone https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git
 
 2. Navigate to the directory:
    ```bash
@@ -76,43 +76,9 @@ Each script is self-contained with example test cases. To run a specific solutio
    ```bash
    # Example: Running the Binary Search implementation
    python algorithms/binary-search/code.py
-
+   
    # Example: Running the Binary Tree max depth solution
    python problem-for-practice/max_depth_bt.py   
-  
-  
-  ---
-
-## 🛠️ Roadmap
-  [ ] Linked List Implementations (Singly & Doubly)
-  [ ] Sorting Algorithms (Merge Sort, Quick Sort)
-  [ ] Dynamic Programming Challenges
-  [ ] Graph Algorithms (BFS, DFS)
-
----
-
-## 🤝 Contributing 
-
-Contributions are welcome! If you have a more optimized solution or want to add a new algorithm:
-1. Fork the Project 
-2. Create your Feature Branch (git checkout -b feature/NewAlgorithm) 
-3. Commit your Changes (git commit -m 'Add some NewAlgorithm') 
-4. Push to the Branch (git push origin feature/NewAlgorithm) 
-5. Open a Pull Request 
-
----
-
-## 📜 License 
-
-Distributed under the MIT License. See LICENSE for more information. 
-
----
-
-## ✉️ Contact 
-
-Your Name - [abdoulrahmanebande@gmail.com]
-
-Project Link: https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git
 
 
 
