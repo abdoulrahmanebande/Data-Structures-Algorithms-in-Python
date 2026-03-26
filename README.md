@@ -59,12 +59,14 @@ A curated list of classic algorithmic challenges and LeetCode problems:
 * Python 3.10+
 
 ### Installation
+
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git](https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git)
+   git clone (https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git)
+
 2. Navigate to the directory:
    ```bash
-  cd Data-Structure-Algorithms-Python
+   cd Data-Structure-Algorithms-Python
 
 ---
 
@@ -78,7 +80,8 @@ Each script is self-contained with example test cases. To run a specific solutio
    # Example: Running the Binary Tree max depth solution
    python problem-for-practice/max_depth_bt.py   
   
----
+  
+  ---
 
 ## 🛠️ Roadmap
   [ ] Linked List Implementations (Singly & Doubly)
