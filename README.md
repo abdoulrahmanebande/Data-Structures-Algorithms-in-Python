@@ -86,10 +86,15 @@ Each script is self-contained with example test cases. To run a specific solutio
 ## 🛠️ Roadmap
 
   [x] Linear Search and Binary Search & Practices Implementations
+
   [x] Binary Search Trees, Traversals and Recursion & Practices Implementations
+
   [ ] Linked List Implementations (Singly & Doubly)
+
   [ ] Sorting Algorithms (Merge Sort, Quick Sort)
+
   [ ] Dynamic Programming Challenges
+  
   [ ] Graph Algorithms (BFS, DFS)
 
 --- 
@@ -99,9 +104,9 @@ Each script is self-contained with example test cases. To run a specific solutio
 Contributions are welcome! If you have a more optimized solution or want to add a new algorithm:
 
   1. Fork the Project 
-  2. Create your Feature Branch (git checkout -b feature/NewAlgorithm)
-  3. Commit your Changes (git commit -m 'Add some NewAlgorithm')
-  4. Push to the Branch (git push origin feature/NewAlgorithm) 
+  2. Create your Feature Branch (**git checkout -b feature/NewAlgorithm**)
+  3. Commit your Changes (**git commit -m 'Add some NewAlgorithm'**)
+  4. Push to the Branch (**git push origin feature/NewAlgorithm**) 
   5. Open a Pull Request 
 
 --- 
@@ -115,6 +120,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ## ✉️ Contact 
 
 Your Name - [abdoulrahmanebande@gmail.com]
+
 Project Link: https://github.com/abdoulrahmanebande/Data-Structures-Algorithms-in-Python.git
 
 
